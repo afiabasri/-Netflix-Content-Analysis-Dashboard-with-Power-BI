@@ -78,11 +78,5 @@ To uncover insights about Netflix's library by analyzing cleaned data using a mu
 
 ---
 
-## 📬 Contact
 
-For dashboard design or freelance BI projects:  
-**Fiverr**: [[Your Fiverr Link] ](https://www.fiverr.com/seller_dashboard) 
-
-
----
 
