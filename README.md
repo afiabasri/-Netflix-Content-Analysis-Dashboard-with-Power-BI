@@ -78,5 +78,12 @@ To uncover insights about Netflix's library by analyzing cleaned data using a mu
 
 ---
 
+## 📊 Dashboard Preview
+
+![Dashboard Screenshot](images/dashboard.png)
+
+![Dashboard Screenshot](images/dashboard.png)
+
+
 
 
