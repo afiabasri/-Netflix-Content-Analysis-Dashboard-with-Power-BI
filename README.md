@@ -80,7 +80,7 @@ To uncover insights about Netflix's library by analyzing cleaned data using a mu
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](https://github.com/afiabasri/-Netflix-Content-Analysis-Dashboard-with-Power-BI/blob/main/page%201.png)
 
 ![Dashboard Screenshot](images/dashboard.png)
 
